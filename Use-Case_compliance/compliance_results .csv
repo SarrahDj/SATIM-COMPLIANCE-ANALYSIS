@@ -1,0 +1,9 @@
+use_case,standard_ref,predicted_kpi,predicted_status,actual_kpi,actual_status,policy_matches,regulation_matches
+1. Classification des actifs,ISO 27001 - A.8.2,51.93979799747468,NON_COMPLIANT,76.0,NON_COMPLIANT,5,5
+2. Gestion des journaux d'activités,PCI DSS Req. 10 / NIST AU-2,57.12250590324403,NON_COMPLIANT,90.0,PARTIAL_COMPLIANT,5,5
+3. Révision des droits d'accès,ISO 27001 - A.9.2.5,53.624448776245124,NON_COMPLIANT,60.0,NON_COMPLIANT,5,5
+4. Sauvegarde et restauration,ISO 27001 - A.12.3,68.31652611494067,NON_COMPLIANT,85.0,PARTIAL_COMPLIANT,5,5
+5. Sécurité des terminaux utilisateurs,NIST 800-53 - CM-7,58.929301798343666,NON_COMPLIANT,78.0,NON_COMPLIANT,5,5
+6. Gestion des vulnérabilités,ISO 27001 - A.12.6.1,74.45330619812012,PARTIAL_COMPLIANT,82.0,PARTIAL_COMPLIANT,5,5
+7. Formation de sensibilisation,ISO 27001 - A.7.2.2,64.70850348472595,NON_COMPLIANT,68.0,NON_COMPLIANT,5,5
+8. Analyse des incidents,ISO 27001 - A.16.1.2,48.89347732067109,NON_COMPLIANT,92.0,COMPLIANT,5,5
